@@ -1,4 +1,4 @@
-# Prevendo Customer Churn em Operadorasde Telecom
+# Prevendo Customer Churn em Operadoras de Telecom
 
 ### Projeto da Formação Cientista de Dados da Data Science Academy.
 
